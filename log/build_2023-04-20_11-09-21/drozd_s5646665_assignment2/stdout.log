@@ -1,0 +1,25 @@
+running egg_info
+writing ../build/drozd_s5646665_assignment2/drozd_s5646665_assignment2.egg-info/PKG-INFO
+writing dependency_links to ../build/drozd_s5646665_assignment2/drozd_s5646665_assignment2.egg-info/dependency_links.txt
+writing entry points to ../build/drozd_s5646665_assignment2/drozd_s5646665_assignment2.egg-info/entry_points.txt
+writing requirements to ../build/drozd_s5646665_assignment2/drozd_s5646665_assignment2.egg-info/requires.txt
+writing top-level names to ../build/drozd_s5646665_assignment2/drozd_s5646665_assignment2.egg-info/top_level.txt
+reading manifest file '../build/drozd_s5646665_assignment2/drozd_s5646665_assignment2.egg-info/SOURCES.txt'
+writing manifest file '../build/drozd_s5646665_assignment2/drozd_s5646665_assignment2.egg-info/SOURCES.txt'
+running build
+running build_py
+copying drozd_s5646665_assignment2/robot_logic_node.py -> /home/drozdja/Desktop/sofar2/sofar-crane-simulator-main/build/drozd_s5646665_assignment2/build/lib/drozd_s5646665_assignment2
+copying drozd_s5646665_assignment2/motor_x_node.py -> /home/drozdja/Desktop/sofar2/sofar-crane-simulator-main/build/drozd_s5646665_assignment2/build/lib/drozd_s5646665_assignment2
+copying drozd_s5646665_assignment2/motor_y_node.py -> /home/drozdja/Desktop/sofar2/sofar-crane-simulator-main/build/drozd_s5646665_assignment2/build/lib/drozd_s5646665_assignment2
+copying drozd_s5646665_assignment2/lib/crane_sim.py -> /home/drozdja/Desktop/sofar2/sofar-crane-simulator-main/build/drozd_s5646665_assignment2/build/lib/drozd_s5646665_assignment2/lib
+running install
+running install_lib
+copying /home/drozdja/Desktop/sofar2/sofar-crane-simulator-main/build/drozd_s5646665_assignment2/build/lib/drozd_s5646665_assignment2/robot_logic_node.py -> /home/drozdja/Desktop/sofar2/sofar-crane-simulator-main/install/drozd_s5646665_assignment2/lib/python3.10/site-packages/drozd_s5646665_assignment2
+copying /home/drozdja/Desktop/sofar2/sofar-crane-simulator-main/build/drozd_s5646665_assignment2/build/lib/drozd_s5646665_assignment2/motor_x_node.py -> /home/drozdja/Desktop/sofar2/sofar-crane-simulator-main/install/drozd_s5646665_assignment2/lib/python3.10/site-packages/drozd_s5646665_assignment2
+copying /home/drozdja/Desktop/sofar2/sofar-crane-simulator-main/build/drozd_s5646665_assignment2/build/lib/drozd_s5646665_assignment2/lib/crane_sim.py -> /home/drozdja/Desktop/sofar2/sofar-crane-simulator-main/install/drozd_s5646665_assignment2/lib/python3.10/site-packages/drozd_s5646665_assignment2/lib
+copying /home/drozdja/Desktop/sofar2/sofar-crane-simulator-main/build/drozd_s5646665_assignment2/build/lib/drozd_s5646665_assignment2/motor_y_node.py -> /home/drozdja/Desktop/sofar2/sofar-crane-simulator-main/install/drozd_s5646665_assignment2/lib/python3.10/site-packages/drozd_s5646665_assignment2
+byte-compiling /home/drozdja/Desktop/sofar2/sofar-crane-simulator-main/install/drozd_s5646665_assignment2/lib/python3.10/site-packages/drozd_s5646665_assignment2/robot_logic_node.py to robot_logic_node.cpython-310.pyc
+byte-compiling /home/drozdja/Desktop/sofar2/sofar-crane-simulator-main/install/drozd_s5646665_assignment2/lib/python3.10/site-packages/drozd_s5646665_assignment2/motor_x_node.py to motor_x_node.cpython-310.pyc
+byte-compiling /home/drozdja/Desktop/sofar2/sofar-crane-simulator-main/install/drozd_s5646665_assignment2/lib/python3.10/site-packages/drozd_s5646665_assignment2/lib/crane_sim.py to crane_sim.cpython-310.pyc
+byte-compiling /home/drozdja/Desktop/sofar2/sofar-crane-simulator-main/install/drozd_s5646665_assignment2/lib/python3.10/site-packages/drozd_s5646665_assignment2/motor_y_node.py to motor_y_node.cpython-310.pyc
+running install_data

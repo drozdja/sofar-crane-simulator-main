@@ -1,0 +1,30 @@
+running develop
+running egg_info
+writing drozd_s5646665_assignment2.egg-info/PKG-INFO
+writing dependency_links to drozd_s5646665_assignment2.egg-info/dependency_links.txt
+writing entry points to drozd_s5646665_assignment2.egg-info/entry_points.txt
+writing requirements to drozd_s5646665_assignment2.egg-info/requires.txt
+writing top-level names to drozd_s5646665_assignment2.egg-info/top_level.txt
+reading manifest file 'drozd_s5646665_assignment2.egg-info/SOURCES.txt'
+writing manifest file 'drozd_s5646665_assignment2.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/drozdja/Desktop/sofar2/sofar-crane-simulator-main/install/drozd_s5646665_assignment2/lib/python3.10/site-packages/drozd-s5646665-assignment2.egg-link (link to .)
+Installing crane_sim_node script to /home/drozdja/Desktop/sofar2/sofar-crane-simulator-main/install/drozd_s5646665_assignment2/lib/drozd_s5646665_assignment2
+Installing motor_x_node script to /home/drozdja/Desktop/sofar2/sofar-crane-simulator-main/install/drozd_s5646665_assignment2/lib/drozd_s5646665_assignment2
+Installing motor_y_node script to /home/drozdja/Desktop/sofar2/sofar-crane-simulator-main/install/drozd_s5646665_assignment2/lib/drozd_s5646665_assignment2
+Installing robot_logic_node script to /home/drozdja/Desktop/sofar2/sofar-crane-simulator-main/install/drozd_s5646665_assignment2/lib/drozd_s5646665_assignment2
+
+Installed /home/drozdja/Desktop/sofar2/sofar-crane-simulator-main/build/drozd_s5646665_assignment2
+running install_data
+copying resource/drozd_s5646665_assignment2 -> /home/drozdja/Desktop/sofar2/sofar-crane-simulator-main/install/drozd_s5646665_assignment2/share/ament_index/resource_index/packages
+copying package.xml -> /home/drozdja/Desktop/sofar2/sofar-crane-simulator-main/install/drozd_s5646665_assignment2/share/drozd_s5646665_assignment2
+creating /home/drozdja/Desktop/sofar2/sofar-crane-simulator-main/install/drozd_s5646665_assignment2/share/drozd_s5646665_assignment2/resource
+copying resource/beam_vertical.png -> /home/drozdja/Desktop/sofar2/sofar-crane-simulator-main/install/drozd_s5646665_assignment2/share/drozd_s5646665_assignment2/resource
+copying resource/chain.png -> /home/drozdja/Desktop/sofar2/sofar-crane-simulator-main/install/drozd_s5646665_assignment2/share/drozd_s5646665_assignment2/resource
+copying resource/beam_top_right.png -> /home/drozdja/Desktop/sofar2/sofar-crane-simulator-main/install/drozd_s5646665_assignment2/share/drozd_s5646665_assignment2/resource
+copying resource/beam_horizontal.png -> /home/drozdja/Desktop/sofar2/sofar-crane-simulator-main/install/drozd_s5646665_assignment2/share/drozd_s5646665_assignment2/resource
+copying resource/hook.png -> /home/drozdja/Desktop/sofar2/sofar-crane-simulator-main/install/drozd_s5646665_assignment2/share/drozd_s5646665_assignment2/resource
+copying resource/beam_top_left.png -> /home/drozdja/Desktop/sofar2/sofar-crane-simulator-main/install/drozd_s5646665_assignment2/share/drozd_s5646665_assignment2/resource
+copying resource/container.png -> /home/drozdja/Desktop/sofar2/sofar-crane-simulator-main/install/drozd_s5646665_assignment2/share/drozd_s5646665_assignment2/resource
+copying resource/SOFAR-assign1-architecture.png -> /home/drozdja/Desktop/sofar2/sofar-crane-simulator-main/install/drozd_s5646665_assignment2/share/drozd_s5646665_assignment2/resource
+creating /home/drozdja/Desktop/sofar2/sofar-crane-simulator-main/install/drozd_s5646665_assignment2/share/drozd_s5646665_assignment2/launch
