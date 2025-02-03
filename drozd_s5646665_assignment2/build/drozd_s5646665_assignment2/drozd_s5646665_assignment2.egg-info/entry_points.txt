@@ -1,6 +1,0 @@
-[console_scripts]
-crane_sim_node = drozd_s5646665_assignment2.crane_sim_node:main
-motor_x_node = drozd_s5646665_assignment2.motor_x_node:main
-motor_y_node = drozd_s5646665_assignment2.motor_y_node:main
-robot_logic_node = drozd_s5646665_assignment2.robot_logic_node:main
-
